@@ -1,0 +1,19 @@
+[
+    {
+    "Vorname Nachname": "Julessok",
+    "Stand Up Datum": "28.08.2023",
+    "Intakevorbereitungen": "Lernen von Git und GitHub, Json Format, Partner Gespräch",
+    "Intake Übungslaufe mit": "Hannah",
+    "Zerfizierung und Deadline": "Automotive Softwaretest",
+    "Sonnstiges": "Python,Framework Aufbau mit selenium, testNG"
+    },
+    {
+    "Vorname Nachname": "Yves.",
+    "Stand Up Datum": "28.08.2023",
+    "Intakevorbereitungen": "GitHub, Json Format",
+    "Intake Übungslaufe mit": "Hannah",
+    "Zerfizierung und Deadline": "AWS 30-09-2023",
+    "Sonnstiges": "Python"
+    }
+    
+]
